@@ -6,7 +6,7 @@
     padding: 20px;
     margin-top: 40px;
     text-align: left;
-    float: left;
+    
 }
 .teal { 
     font: teal;
@@ -27,14 +27,16 @@
 }
 .card {
     width: 50%;
-    float: left;
+    margin-left: -105px;   
 }
 .card-title {
     font-family: Arial, Helvetica, sans-serif;
     color: teal;
     font-weight: strong;
-    
-}
+    margin-top: 10px ;
+
+
+
 
 
 
