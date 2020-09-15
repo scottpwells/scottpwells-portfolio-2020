@@ -1,19 +1,29 @@
 .teal {
     color: teal;
 }
-.featured-section {
+#featured-section {
     background: #ffffff;
-    padding: left 5%;
-    padding: right 10%;
+    padding: 20px;
     margin-top: 40px;
-    margin-left: -100px;
+    /* margin-left: -100px; */
     text-align: left;
-}
-body {
-    background-image: url('assets\css\images\ignasi_pattern_s.png');
 }
 .teal { 
     font: teal;
+}
+.navbar-light .navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24pt;
+    font-weight: strong;           
+    background:teal;
+    color: white;   
+}
+
+.img-thumbnail {
+    float: left;
+}
+.navbar {
+    max-width: 80%;
 }
 
 
