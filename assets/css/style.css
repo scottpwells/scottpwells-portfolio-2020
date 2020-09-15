@@ -3,7 +3,8 @@
 }
 .featured-section {
     background: White;
-    margin-top: 40px
+    margin-top: 40px;
+    margin-left: -120px;
 }
 body {
     background-image: url('assets\css\images\ignasi_pattern_s.png');
@@ -11,3 +12,6 @@ body {
 .teal { 
     font: teal;
 }
+
+
+
