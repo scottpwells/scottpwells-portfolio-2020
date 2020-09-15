@@ -2,10 +2,12 @@
     color: teal;
 }
 .featured-section {
-    background: White;
+    background: #ffffff;
+    padding: left 5%;
+    padding: right 10%;
     margin-top: 40px;
     margin-left: -100px;
-
+    text-align: left;
 }
 body {
     background-image: url('assets\css\images\ignasi_pattern_s.png');
