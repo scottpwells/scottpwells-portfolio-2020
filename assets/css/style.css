@@ -22,7 +22,7 @@
     float: left;
 }
 .navbar {
-    max-width: 100%;
+    max-width: 98%;
     margin-top: 0;
 }
 .card {
@@ -33,7 +33,9 @@
     font-family: Arial, Helvetica, sans-serif;
     color: teal;
     font-weight: strong;
-    margin-top: 10px;}
+    margin-top: 10px;
+    max-width: 98%;
+}
 
     .footer{
     height: 50px;
