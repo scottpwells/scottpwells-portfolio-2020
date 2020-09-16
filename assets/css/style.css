@@ -5,12 +5,13 @@
     display: inline-block;
     background: #ffffff;
     position: absolute;
-    left: 0;
-    right: 5;
     padding: 20px;
+    margin-left: 5px;
+    margin-right: 500px;
     margin-top: 40px;
-    width: 500px; 
-    height: 400px; 
+    margin-bottom: 20px;
+    width: 750px; 
+    height: 600px;    
 }
 .teal { 
     font: teal;
@@ -29,7 +30,12 @@
 .navbar {
     max-width: 100%;
     margin-top: 0;
-}    
+}
+ .card {
+     display: inline-block;
+     margin-left: 5px;
+     margin-right: 500px;
+}   
 .card-title {
     font-size: 28pt;
     font-family: Arial, Helvetica, sans-serif;
@@ -67,7 +73,11 @@
 .form-group{
     max-width: 98% 
 }
-
+img {
+    width: auto ;
+    max-width: 100% ;
+    height: auto ;
+  }
 
 
 
