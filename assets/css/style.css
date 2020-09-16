@@ -54,6 +54,24 @@ copyright {
      opacity: 0.5
 }
 
+.form {
+    width: 100%;
+      
+
+}
+
+.form-title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal;
+    font-weight: strong;
+    margin-top: 10px;
+}
+
+.form-group{
+    max-width: 100%   
+}
+
+
 
 
 
