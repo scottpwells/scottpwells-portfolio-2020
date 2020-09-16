@@ -8,8 +8,8 @@
     padding: 20px;
     margin-left: 5px;
     margin-right: 500px;
-    margin-top: 40px;
-    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: auto;
     width: 750px; 
     height: 600px;    
 }
@@ -59,8 +59,22 @@
     border-top-style: solid;
     border-top-color: teal 
 }
-.form {
-    width: 100%;
+
+#form-featured-section {
+    display: inline-block;
+    background: #ffffff;
+    position: absolute;
+    padding: 20px;
+    margin-left: 5px;
+    margin-right: 500px;
+    margin-top: 20px;
+    margin-bottom: auto;
+    width: 750px; 
+    height: 400px; 
+}
+
+.form-input {
+   width: 800px;
 }
 .form-title {
     font-family: Arial, Helvetica, sans-serif;
@@ -70,18 +84,37 @@
     max-width: 98%;
 }
 
-.form-group{
-    max-width: 98% 
+.form{
+    max-width: 100% 
 }
-img {
-    width: auto ;
-    max-width: 100% ;
-    height: auto ;
+.portfolio-img-thumbnail {
+    max-width: 100%;
+    height: auto;
+    padding-bottom:10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#portfolio-featured-section {
+    display: inline-block;
+    background: #ffffff;
+    position: absolute;
+    padding: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 40px;
+    margin-bottom:20px;
+    width: 800px; 
+    height: 1200px;    
+}
+
+  .portfolio {
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px
   }
-
-
-
-
-
+  
 
 
