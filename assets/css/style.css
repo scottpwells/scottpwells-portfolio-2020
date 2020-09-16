@@ -35,6 +35,25 @@
     font-weight: strong;
     margin-top: 10px;}
 
+    .footer{
+    height: 50px;
+    bottom: 0%;
+    background-color:#696969;
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    font: teal;
+    opacity: 0.5;
+    text-align: center;
+    border-top-style: solid;
+    border-top-color: teal 
+}
+
+copyright {
+     opacity: 0.5
+}
+
 
 
 
