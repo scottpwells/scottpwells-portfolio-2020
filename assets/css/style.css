@@ -4,9 +4,11 @@
 #featured-section {
     display: inline-block;
     background: #ffffff;
+    position: absolute;
+    left: 0;
+    right: 5;
     padding: 20px;
     margin-top: 40px;
-    text-align: left;
     width: 500px; 
     height: 400px; 
 }
@@ -21,19 +23,15 @@
     color: white;   
 }
 .img-thumbnail {
-    display: inline-block;
-    padding: 5px;
+    float: left;
+    margin: 8px;
 }
 .navbar {
-    max-width: 99%;
+    max-width: 100%;
     margin-top: 0;
-}
-.card {
-    display: inline-block;
-    width: 50%;
-    right: 7%  
-}
+}    
 .card-title {
+    font-size: 28pt;
     font-family: Arial, Helvetica, sans-serif;
     color: teal;
     font-weight: strong;
