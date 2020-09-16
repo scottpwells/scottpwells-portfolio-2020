@@ -2,11 +2,12 @@
     color: teal;
 }
 #featured-section {
+    display: inline-block;
     background: #ffffff;
     padding: 20px;
     margin-top: 40px;
     text-align: left;
-    max-width: 98%;   
+    width: 50%;  
 }
 .teal { 
     font: teal;
@@ -26,6 +27,7 @@
     margin-top: 0;
 }
 .card {
+    display: inline-block;
     width: 50%;
     right: 7%  
 }
