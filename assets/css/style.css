@@ -2,16 +2,12 @@
     color: teal;
 }
 #featured-section {
-    display: inline-block;
+    position: relative;
     background: #ffffff;
-    position: absolute;
     padding: 20px;
-    margin-left: 5px;
-    margin-right: 500px;
-    margin-top: 20px;
-    margin-bottom: auto;
-    width: 750px; 
-    height: 600px;    
+    padding-bottom: 10px;
+    max-width: 100%; 
+    max-height: 100%;    
 }
 .teal { 
     font: teal;
@@ -46,7 +42,7 @@
 }
 
     .footer{
-    height: 50px;
+    height: 30px;
     bottom: 0%;
     background-color:#696969;
     position: fixed;
@@ -88,25 +84,23 @@
     max-width: 100% 
 }
 .portfolio-img-thumbnail {
-    max-width: 100%;
-    height: auto;
-    padding-bottom:10px;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+    display: block; margin: auto;
+    width: 500px;
+    height: 500px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: solid;
+    border-color: #696969;
 }
 
-#portfolio-featured-section {
+.portfolio-featured-section {
     display: inline-block;
     background: #ffffff;
     position: absolute;
-    padding: 20px;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-top: 40px;
-    margin-bottom:20px;
-    width: 800px; 
-    height: 1200px;    
+    max-width: 2000px; 
+    max-height: 2000px;    
 }
 
   .portfolio {
@@ -115,6 +109,8 @@
     margin-right: 0px;
     padding: 5px
   }
+
+
   
   
 
