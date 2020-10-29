@@ -77,17 +77,16 @@ Follow these guidelines for committing:
 
 * Test your application before you commit to ensure functionality at every step in the development process.
 
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
+Project Summary:
+We were tasked with creating a responsive design about me, contact page, and portfolio page.
+Updated with our projects and contact information, git hub bio, linked in, resume download.
 
 
 
-Project Summation:
+![about-me-screenshot](https://user-images.githubusercontent.com/57837212/97522151-76353a80-1975-11eb-9729-676a63fc2e70.PNG)
+
+![contact-page](https://user-images.githubusercontent.com/57837212/97522281-cb714c00-1975-11eb-9849-14221dc05edd.PNG)
+
+![portfolio-page-1](https://user-images.githubusercontent.com/57837212/97522799-f60fd480-1976-11eb-8106-3def4b0e4491.PNG)
+
+![portfolio-page-2](https://user-images.githubusercontent.com/57837212/97522831-13dd3980-1977-11eb-8a22-5f9529af090d.PNG)
