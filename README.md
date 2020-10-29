@@ -91,12 +91,3 @@ You are required to submit the following:
 
 
 Project Summation:
-I made every attempt to finish this project with in the time alotted. 
-However, this was my first attempt at creating a full web page utilizing bootstrap and its grid system.
-I found that boot straps CSS while it provides a lot of CSS enhancements from the external style sheets,
-but requires significant understanding of how to override default settings. Because of this it took me significant time and research
-to work with in its frame work and I logged well over 20 hours on this home work assignment and I was still unable to complete it.
-It was a great learning experience and I learned a lot but I was unable to finish as complete as I would like. However, I did complete all
-3 pages and I did meet the vast majority of guidelines and I met the main objective of creating 3 similar web pages a about me, contact page and
-a portfolio page that currently has place holder pictures because I currently don't have a portfolio that I want displayed on the we but will update
-as I become more proficient. 
